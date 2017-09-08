@@ -12,8 +12,8 @@
 // @version     1.0
 // @grant       none
 // @run-at      document-end
-// @include     https://maturitnitabla.cz/*
-// @include     https://www.maturitnitabla.cz/*
+// @include     https://github.com/*
+// @include     https://www.github.com/*
 // ==/UserScript==
 
 alert("jedu");
